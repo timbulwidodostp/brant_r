@@ -1,6 +1,8 @@
 # brant_r
 Brant test by Brant (1990) for ordinal logit models to test the parallel regression assumption Use brant With (In) R Software
 
+https://www.youtube.com/watch?v=LHwvqU7s3xs
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
